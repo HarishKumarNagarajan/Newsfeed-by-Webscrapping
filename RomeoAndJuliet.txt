@@ -1,0 +1,2607 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>
+TAMIL NADU News - The Hindu
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="title" content=""/>
+<meta name="atdlayout" content="sectionpage"/>
+<meta name="description" content=""/>
+<meta name="robots" content="index, follow"/>
+<meta name="fragment" content="!">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://www.thehindu.com/static/theme/default/base/img/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@The_Hindu"/>
+<meta name="twitter:domain" content="thehindu.com"/>
+<meta name="twitter:app:name:ipad" content="The Hindu"/>
+<meta name="twitter:app:name:googleplay" content="The Hindu (Official App)"/>
+<meta name="twitter:app:id:googleplay" content="com.mobstac.thehindu"/>
+<meta name="twitter:app:name:iphone" content="The Hindu for iPhone"/>
+<meta name="twitter:app:id:iphone" content="771672321"/>
+<meta name="apple-itunes-app" content="app-id=584786636"/>
+<meta name="google-play-app" content="app-id=com.mobstac.thehindu"/>
+<meta property="fb:app_id" content="137450626398044"/>
+<meta property="fb:pages" content="163974433696568" />
+<meta property="og:site_name" content="The Hindu"/>
+<meta property="og:url" content="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://www.thehindu.com/static/theme/default/base/img/og-image.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}
+</script>
+<link href="//www.googletagservices.com" rel="dns-prefetch">
+<link href="//www.googletagservices.com" rel="preconnect">
+<link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
+<link href="//securepubads.g.doubleclick.net" rel="preconnect">
+<link href="//pubads.g.doubleclick.net" rel="dns-prefetch">
+<link href="//pubads.g.doubleclick.net" rel="preconnect">
+<link href="//sb.scorecardresearch.com" rel="dns-prefetch">
+<link href="//www.google-analytics.com" rel="dns-prefetch">
+<link href="//tpc.googlesyndication.com" rel="dns-prefetch">
+<link href="//pagead2.googlesyndication.com" rel="dns-prefetch">
+<link rel="prefetch" href="https://www.googletagservices.com/tag/js/gpt.js" as="script">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.thehindu.com/thfavicon.ico"/>
+<link rel="icon" type="image/ico" href="https://www.thehindu.com/thfavicon.ico"/>
+<link rel="apple-touch-icon" href="https://www.thehindu.com/thapple-touch-icon.png"/>
+<link rel="apple-touch-icon-precomposed" href="https://www.thehindu.com/thapple-touch-icon-precomposed.png"/>
+<link rel="canonical" href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/"/>
+<link rel="manifest" href="https://www.thehindu.com/manifest.json">
+<link href="https://www.thehindu.com/static/theme/default/base/css/default-base.02b881c6f5c1610f63260c8008285e72.min.css" rel="stylesheet"> <link href="https://www.thehindu.com/static/theme/default/base/css/jquery-ui-1.11.4.min.css" rel="stylesheet"></link>
+<script>(function (w, d, u) {
+w.readyQ = [];
+w.bindReadyQ = [];
+function p(x, y) {
+if (x == "ready") {
+w.bindReadyQ.push(y);
+} else {
+w.readyQ.push(x);
+}
+};
+var a = {ready: p, bind: p};
+w.$ = w.jQuery = function (f) {
+if (f === d || f === u) {
+return a
+} else {
+p(f)
+}
+}
+})(window, document)
+</script>
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"audioPlayer":"mediaelement","media.jwplayer.options.primary":"flash","media.jwplayer.ga.enabled":"true","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","videoPlayer":"flowplayer","media.jwplayer.sharing.enabled":"true","media.jwplayer.hls.enabled":"true"};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "https://www.thehindu.com/";
+/* Client-side device detection */
+var WFClientTypeDef = {"xlarge":"(min-width: 1600px)","large":"(min-width: 1024px) and (max-width: 1599px)","small":"(max-width: 767px)","medium":"(min-width: 768px) and (max-width: 1023px)"};
+var imageSizes = [80, 100, 115, 155, 170, 215, 230, 240, 300, 320, 355, 435, 460, 480, 615, 660, 730, 810, 960, 1080, 1140];
+var isMobile=false;
+var isTablet=false;
+var isDesktop=false;
+var isLargeDesktop=false;
+for ( var type in WFClientTypeDef) {
+if (window.matchMedia(WFClientTypeDef[type]).matches) {
+switch (type) {
+case "xlarge":
+isLargeDesktop=true; break;
+case "large":
+isDesktop=true;
+break;
+case "medium":
+isTablet=true; break;
+case "small":
+isMobile=true;
+break;
+}
+break;
+}
+}
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<!--[if lt IE 9]>
+<script src="https://www.thehindu.com/static/js/html5shiv.js"></script>
+<script src="https://www.thehindu.com/static/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-10158580-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q, e, v, n, t, s) {
+if (q.qp)
+return;
+n = q.qp = function() {
+n.qp ? n.qp.apply(n, arguments) : n.queue.push(arguments);
+};
+n.queue = [];
+t = document.createElement(e);
+t.async = !0;
+t.src = v;
+s = document.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s);
+}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '56b3f5a823af4aa3a007a6ef8dc3cdc4');
+qp('track', 'ViewContent');
+</script>
+<noscript>
+<img height="1" width="1" style="display: none"
+src="https://q.quora.com/_/ad/56b3f5a823af4aa3a007a6ef8dc3cdc4/pixel?tag=ViewContent&noscript=1" />
+</noscript>
+<!-- End of Quora Pixel Code -->
+<script type="text/javascript"> var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "11398210" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();</script><noscript> <img src="https://sb.scorecardresearch.com/p?c1=2&c2=123456&cv=2.0&cj=1" /></noscript>
+<script type="text/javascript">	function isDeviceEnabled(skipOnDeviceValue){	if(skipOnDeviceValue.indexOf("large") > -1 && (isDesktop || isLargeDesktop)){return false;}	if(skipOnDeviceValue.indexOf("medium") > -1 && isTablet){return false;}	if(skipOnDeviceValue.indexOf("small") > -1 && isMobile){return false;}	return true;	}
+function isIE() {
+var sAgent = window.navigator.userAgent;
+var Idx = sAgent.indexOf("MSIE"); if (Idx > 0) return true;
+else if (!!navigator.userAgent.match(/Trident\/7\./)) return true;
+else
+return false; }
+var infiniteScroll = false;
+</script>
+<meta name="msvalidate.01" content="00762243DAFA333A5A6D97CE4545BDB2" />
+<meta name="yandex-verification" content="ff4648e5089d361d" />
+<div class="overlay-screen"></div>
+<script type="text/javascript"> var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; (function (){ window.advBidxc = window.advBidxc || {}; window.advBidxc.renderAd = function (){}; window.advBidxc.startTime = new Date().getTime(); window.advBidxc.timeout = 400; window.advBidxc.version = 4.1; window.advBidxc.section = "<section name>"; window.advBidxc.customerId = "8CU2CL0HK"; window.advBidxc.domain = window.location.hostname; function loadScript(tagSrc) { if (tagSrc.substr(0, 4) !== 'http') { var isSSL = 'https:' == document.location.protocol; tagSrc = (isSSL ? 'https:' : '') + tagSrc; } var scriptTag = document.createElement('script'), placeTag = document.getElementsByTagName("script")[0];
+scriptTag.type = 'text/javascript'; scriptTag.async = true; scriptTag.src = tagSrc; placeTag.parentNode.insertBefore(scriptTag, placeTag); } function loadGPT(){ if(!window.advBidxc.isAdServerLoaded){ loadScript('//www.googletagservices.com/tag/js/gpt.js'); window.advBidxc.isAdServerLoaded = true; } } window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout); var isSSL = 'https:' == document.location.protocol; var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/bidexchange.js?cid=' + window.advBidxc.customerId + '&dn=' + window.advBidxc.domain + '&version=' + window.advBidxc.version + (isSSL ? '&https=1' : ''); loadScript(mnSrc); })(); </script>
+<script src="https://d32r9jwgeu9dzx.cloudfront.net/prod-global-323151.js" async></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+googletag.cmd.push(function() {
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_Overaly_1x1', [1, 1], 'div-gpt-ad-1527225526136-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_Overaly_1x1', [1, 1], 'div-gpt-ad-1527169441053-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_LB', [[970, 90], [728, 90]], 'div-gpt-ad-1530175872306-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_CPD', [300, 250], 'div-gpt-ad-1522408211443-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_RT', [300, 250], 'div-gpt-ad-1521616786341-1').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_RM', [300, 250], 'div-gpt-ad-1521628815528-3').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_RB', [300, 250], 'div-gpt-ad-1521628815528-4').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_BTF01', [300, 250], 'div-gpt-ad-1521628815528-5').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_BTF02', [300, 250], 'div-gpt-ad-1521628815528-6').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_Billboard', [[970, 90], [970, 250], [728, 90]], 'div-gpt-ad-1530768416450-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_CPD_300x250', [[300, 250], [336, 280]], 'div-gpt-ad-1518415239830-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_Middle', [[300, 250], [336, 280]], 'div-gpt-ad-1518415239830-1').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_Native01', ['fluid'], 'div-gpt-ad-1525857138168-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_Bottom', [[300, 250], [336, 280]], 'div-gpt-ad-1518415239830-2').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_Footer', [[300, 250], [336, 280], [300, 600], [320, 50]], 'div-gpt-ad-1518415239830-3').addService(googletag.pubads());
+}
+googletag.pubads().enableSingleRequest();
+googletag.pubads().setTargeting('Section', ['Todayspaper']);
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+});
+</script>	<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script type="text/javascript" src="https://go.automatad.com/geo/TnmYmM/afihbs.js" async></script>
+<style type="text/css">
+.justin-popup-container {
+z-index: 99999;
+}
+@media (max-width: 767px) and (min-width: 1px){
+#stickyfooterarticle {
+padding: 0;
+}
+.stickyfooterarticlealone {
+display:none;
+}
+.footerstickylist {
+height: auto;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+border-radius: 10px;
+box-shadow: 2px 2px 2px 0px rgba(0,0,0,.328);
+}
+.fooetrstickyimg {
+width: 100%;
+height: 100%;
+}
+#stickyfooterarticle .slick-list {
+padding: 0px 50px;
+}
+.fooeterarticleswrapper {
+border-top: none;
+width: 300px;
+margin: 20px 10px 0 0;
+padding-bottom:10px;
+}
+.fooeterarticleswrapper h3 {
+height: 60px;
+line-height: 20px;
+}
+.recomendedtitle{padding: 10px;display:table;}
+#stickyfooterarticle .textcount {
+top: 0;
+bottom: unset;
+}
+.fooeterarticleswrapper h3:after {
+bottom: 0px;
+height: 18px;
+width:50%;
+}
+.recommendedtitlediv:after {
+content: '';
+border: 0.5px solid #d1ced2;
+width: 100%;
+display: block;
+position: absolute;
+bottom: -36px;
+}
+.back-top {
+z-index: 75000;
+}
+.img-full-width.lead-img-verticle .caption-cont {
+float: none;
+}
+}
+</style>
+<script>
+function appURL(){
+if(location.port == "")
+return location.origin + "/" ;
+return location.href.match(/http:\/\/([\w.-])+:[\d]+\/[\w.]+/)[0] + "/";
+}
+async function eagerLoading(){
+var sizes = imageSizes;
+var imgSelector = "img.adaptive.lazy";
+var position = 0;
+for ( var type in WFClientTypeDef) {
+if (window.matchMedia(WFClientTypeDef[type]).matches) {
+switch (type) {
+case "xlarge":
+position = 0;
+break;
+case "large":
+position = 1;
+break;
+case "medium":
+position = 2;
+break;
+case "small":
+position = 3;
+break;
+}
+break;
+}
+}
+var elements = document.querySelectorAll(imgSelector);
+Array.prototype.slice.call(elements).slice(0,6).forEach(function(el, i){	var template = el.getAttribute('data-src-template');
+if (template == null) {
+return;
+}
+var prevWidth = el.getAttribute('data-selected-width');
+if (prevWidth !== null) {
+return;
+}
+var variant = el.getAttribute('data-variant');
+var customVariant = variant+"~"+el.getAttribute('data-device-variant');
+if("" != el.getAttribute('data-device-variant'))
+variant = customVariant.split("~")[position];	var elementWidth = el.offsetWidth;
+var selected = Math.max.apply(null, sizes);
+for (var i = 0; i < sizes.length; i++) {
+if (elementWidth <= sizes[i]) {
+selected = sizes[i];
+break;
+}
+} if (prevWidth && prevWidth >= selected) {
+return;
+}	el.setAttribute('data-selected-width',selected);
+var binaryRegEx = new RegExp("binary", "ig");
+var thumbnailRegEx = new RegExp("thumbnail", "ig");
+var adaptedSrc = template.replace(binaryRegEx, "alternates").replace(thumbnailRegEx, variant + "_" + selected);
+el.setAttribute('src',appURL() + "static/img/placeholder/" + variant + ".gif"); el.setAttribute('src', adaptedSrc);	}
+);
+}
+</script>
+</head>
+<body class="">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W5VV9N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5VV9N');</script>
+<!-- End Google Tag Manager -->
+<section class=" " >
+<!-- Begin DFP : /22390678/Hindu_Desktop_Overaly_1x1, publisher: The Hindu -->
+<div id="div-gpt-ad-1527225526136-0" class="dfp-ad " style="height:0px;margin-bottom: 0px;">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1527225526136-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_Overaly_1x1, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_WAP_Overaly_1x1, publisher: The Hindu -->
+<div id="div-gpt-ad-1527169441053-0" class="dfp-ad " style="height:0px;margin-bottom: 0px;">
+<script>
+if(isDeviceEnabled("[large, medium]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1527169441053-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_Overaly_1x1, publisher: The Hindu -->
+<div class="top-add hidden-xs hidden-sm ad-box">
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_LB, publisher: The Hindu -->
+<div id="div-gpt-ad-1530175872306-0" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530175872306-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_LB, publisher: The Hindu -->
+</div>
+</section>
+<div class="container-main">
+<header class=" " role="banner">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<section class="header-top clear hidden-xs">
+<!-- [Socialize] -->
+<div class="socialize hidden-xs">
+<ul>
+<li><a href="https://www.facebook.com/thehindu" class="fb" title="Connect on Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/The_Hindu" class="tw" title="Follow on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.linkedin.com/company/the-hindu" class="in" title="Connect on Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+<li><a href="https://instagram.com/the_hindu/?ref=badge" class="ins" title="Follow on Instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><<a target="_blank" href="https://www.thehindu.com/newsletter-subscription/" class="usernews" title="Subscribe to our Newsletter"><i class="fa fa-envelope"></i></a></li>
+<li><a href="https://www.thehindu.com/social/" class="user androidos" title="Install our Android &amp; iOS apps"><i class="fa fa-mobile"></i></a></li>
+<li><a href="https://epaper.thehindu.com/home/directsubscription/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" class="ePaper" title="ePaper">ePaper</a></li>
+<!-- <li><a href="https://epaper.thehindu.com/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" class="user" title="ePaper"><i class="fa fa-newspaper-o"></i></a></li> -->
+</ul>
+</div>
+<!-- [/Socialize] -->
+<div class="search-block">
+<form action="https://www.thehindu.com/search/">	<input type="text" data-type="search" placeholder="Search here"
+name="q" required oninvalid="setCustomValidity('Please enter your search text.')" oninput="setCustomValidity('')">	<button class="fa fa-search search-selection-icon"
+style="background: none !important; color: black"></button>
+<input type="hidden" name="order" value="DESC">
+<input type="hidden" name="sort" value="publishdate">
+</form>
+</div>
+</section>
+<section class="logo-block">
+<div id="logo"
+class="logo">
+<a href="https://www.thehindu.com/">
+<img src="https://www.thehindu.com/static/theme/default/base/img/logo.png" alt="Return to frontpage">
+</a>
+<p class="hidden-xs">
+<span id="todaysdate"></span>
+<span class="today-paper"><a href="https://www.thehindu.com/todays-paper/">Today's Paper</a></span>
+<span id="weather"></span>
+</p>
+<script type='text/javascript'>
+var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+var today = new Date();
+var day = days[ today.getDay() ];
+var month = months[ today.getMonth() ];
+$(function(){
+$("#todaysdate").html(day + ", " + month +" " + today.getDate() + ", " + today.getFullYear());
+});
+</script>
+</div>
+</section>
+<nav class="navbar main-menu clear " role="navigation" >
+<div class="just-in-conatiner hidden-sm hidden-md hidden-lg">
+<i class="fa fa-bell"></i>
+<span class="just-in-counter"></span>
+</div>
+<div class="menu-icon">
+<a href="javascript:void(0)" id="menu-button">
+<!-- <span class="menu-text hidden-xs">Menu</span> --><i class="icon"></i>
+</a>
+</div>
+<div id="main-menu"
+>
+<ul class=" hidden-xs">
+<li class="">
+<a href="https://www.thehindu.com/">
+Home
+</a>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/news/" class="dropdown-toggle" data-toggle="dropdown">News <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/news/national/">National </a></li>
+<li><a href="https://www.thehindu.com/news/international/">International </a></li>
+<li><a href="https://www.thehindu.com/news/states/">States </a></li>
+<li><a href="https://www.thehindu.com/news/cities/">Cities </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/opinion/" class="dropdown-toggle" data-toggle="dropdown">Opinion <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/opinion/cartoon/">Cartoon </a></li>
+<li><a href="https://www.thehindu.com/opinion/columns/">Columns </a></li>
+<li><a href="https://www.thehindu.com/opinion/editorial/">Editorial </a></li>
+<li><a href="https://www.thehindu.com/opinion/interview/">Interview </a></li>
+<li><a href="https://www.thehindu.com/opinion/lead/">Lead </a></li>
+<li><a href="https://www.thehindu.com/opinion/Readers-Editor/">Readers&#039; Editor </a></li>
+<li><a href="https://www.thehindu.com/opinion/op-ed/">Comment </a></li>
+<li><a href="https://www.thehindu.com/opinion/open-page/">Open Page </a></li>
+<li><a href="https://www.thehindu.com/opinion/letters/">Letters </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/business/" class="dropdown-toggle" data-toggle="dropdown">Business <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/business/agri-business/">Agri-Business </a></li>
+<li><a href="https://www.thehindu.com/business/Industry/">Industry </a></li>
+<li><a href="https://www.thehindu.com/business/Economy/">Economy </a></li>
+<li><a href="https://www.thehindu.com/business/markets/">Markets </a></li>
+<li><a href="https://www.thehindu.com/business/budget/">Budget </a></li>
+<li><a href="https://www.thehindubusinessline.com/markets/" target="">Stock Quotes </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/sport/" class="dropdown-toggle" data-toggle="dropdown">Sport <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/sport/cricket/">Cricket </a></li>
+<li><a href="https://www.thehindu.com/sport/football/">Football </a></li>
+<li><a href="https://www.thehindu.com/sport/hockey/">Hockey </a></li>
+<li><a href="https://www.thehindu.com/sport/tennis/">Tennis </a></li>
+<li><a href="https://www.thehindu.com/sport/athletics/">Athletics </a></li>
+<li><a href="https://www.thehindu.com/sport/motorsport/">Motorsport </a></li>
+<li><a href="https://www.thehindu.com/sport/races/">Races </a></li>
+<li><a href="https://www.thehindu.com/sport/other-sports/">Other Sports </a></li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/sport/cricket/">
+Cricket
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/sci-tech/science/">
+Science
+</a>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/entertainment/" class="dropdown-toggle" data-toggle="dropdown">Entertainment <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/entertainment/art/">Art </a></li>
+<li><a href="https://www.thehindu.com/entertainment/dance/">Dance </a></li>
+<li><a href="https://www.thehindu.com/entertainment/movies/">Movies </a></li>
+<li><a href="https://www.thehindu.com/entertainment/music/">Music </a></li>
+<li><a href="https://www.thehindu.com/entertainment/reviews/">Reviews </a></li>
+<li><a href="https://www.thehindu.com/entertainment/theatre/">Theatre </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/life-and-style/" class="dropdown-toggle" data-toggle="dropdown">Life & Style <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/life-and-style/fashion/">Fashion </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/fitness/">Fitness </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/food/">Food </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/motoring/">Motoring </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/travel/">Travel </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/homes-and-gardens/">Homes and gardens </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/luxury/">Luxury </a></li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/thread/">
+thREAD
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<nav class="navbar trending-menu hidden-xs " role="navigation" >
+<span class="fts-menu">
+TRENDING TODAY
+</span>
+<div class="wf-placeholder"
+data-loadURL="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/wf.fragment/7576db29-bd43-40a7-aba3-e8cdca289f40"
+data-elementwidth="1140"
+data-skip-profiles=""></div>
+</nav>
+<div class="mob-top-addRem hidden-sm hidden-md hidden-lg">
+</div>
+<nav class="navbar city-menu-wrapper " role="navigation" >
+<div class="city-menu-1">
+<div class="city-name archive-menu-1">
+<span class="city-heading">
+TAMIL NADU
+</span>
+<div class="date-picker-cont right">
+<span><input type="text" id="datepicker"></span>
+</div>	<script>
+$(document).ready(function (e) {
+var dtFormat = "MM dd, yy";
+var selectedDate = "July 20, 2018";
+var maxDate = "July 20, 2018";
+$( "#datepicker" ).datepicker({
+dateFormat: dtFormat,
+minDate: new Date(2006, 1 - 1, 1),
+maxDate: $.datepicker.parseDate( dtFormat, maxDate),
+showOn: "both",
+changeMonth: true,
+changeYear: true,
+buttonImage: "https://www.thehindu.com/static/theme/default/base/img/calendar.png",
+onSelect: function(dateText, inst) {
+var date = $(this).val();
+var tmp = $.format.date($.datepicker.parseDate( dtFormat, date ), "yyyy/MM/dd");
+var archiveUrl = "https://www.thehindu.com/archive/print/";
+window.location = archiveUrl + tmp + "/";
+event.preventDefault();
+}
+});
+$( "#datepicker" ).datepicker( "setDate", selectedDate);	});
+</script>
+</div>
+</div>
+<div class="city-menu-2 hidden-xs">
+<div class="left">
+<i class="fa fa-dot-circle-o fa-lg yellow-color blink-active" style="padding-right: 2px;"></i></div>
+<div class="teaser ">
+<span class="title ">
+<a href="https://www.thehindu.com/business/Economy/quick-guide-to-tax-returns/article24427396.ece">
+Quick guide to tax returns
+</a>
+</span>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<div class=" " >
+<div class="height-20">
+</div>
+</div>
+<section class=" " role="main">
+<div class="container container-mobile">
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="tpaper-container">
+<div id="subnav-tpbar-latest">
+<a href="https://www.thehindu.com/todays-paper/">Front Page</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/">national</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/">tamil nadu</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/tp-karnataka/">karnataka</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/tp-kerala/">kerala</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/">andhra pradesh</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/tp-telangana/">telangana</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/">new delhi</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/tp-mumbai/">mumbai</a>
+<a href="https://www.thehindu.com/todays-paper/tp-national/tp-otherstates/">other states</a>
+<a href="https://www.thehindu.com/todays-paper/tp-international/">international</a>
+<a href="https://www.thehindu.com/todays-paper/tp-opinion/">opinion</a>
+<a href="https://www.thehindu.com/todays-paper/tp-business/">business</a>
+<a href="https://www.thehindu.com/todays-paper/tp-sports/">sport</a>
+<a href="https://www.thehindu.com/todays-paper/tp-life/">life</a>
+<a href="https://www.thehindu.com/todays-paper/tp-in-school/">in school</a>
+<a href="https://www.thehindu.com/todays-paper/tp-features/tp-metroplus/">metro plus</a>
+<a href="https://www.thehindu.com/todays-paper/tp-features/tp-youngworld/">young world</a>
+<a href="https://www.thehindu.com/todays-paper/tp-features/tp-fridayreview/">friday review</a>
+<a href="https://www.thehindu.com/todays-paper/tp-features/tp-downtown/">down town</a>
+<a href="https://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/">others</a>
+</div>
+<section id="section_">
+<div class="section-header">
+<div class="section-header-container left">
+<div class="border-line hidden-xs"></div>
+<h2 id="tamil nadu" class="section-heading left">
+<a class="section-list-heading" href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/">tamil nadu</a>
+</h2>
+<div class="section-controls right hidden-xs">
+<ul>
+<li><a class="show-hide-button" target="_"> Section</a></li>
+</ul>
+</div>
+<a class="show-hide-icon hidden-lg hidden-sm hidden-md" target="_">
+<i class="fa fa-minus-circle fa-lg right"></i>
+<i class="fa fa-plus-circle fa-lg right" style="display:none"></i>
+</a>
+</div>
+</div>
+<div class="section-container">
+<div class="row">
+<div class="mobile-padding">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<h4>b. tilak chandar</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/high-court-disapproves-of-police-getting-involved-in-civil-disputes/article24467902.ece">High Court disapproves of police getting involved in civil disputes</a></li>	</ul>
+<h4>chennai</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/edappadi-looking-to-widen-support-base/article24466778.ece">Edappadi looking to widen support base</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/ice-manufacturers-cool-to-using-dye/article24466728.ece">Ice manufacturers cool to using dye</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/debt-laden-corporation-may-increase-property-tax/article24466733.ece">Debt-laden Corporation may increase property tax</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/nothing-wrong-in-operating-buses-sans-conductors-govt/article24466785.ece">Nothing wrong in operating buses sans conductors: govt.</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/police-pile-charges-on-the-17-accused/article24468162.ece">Police pile charges on the 17 accused</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/truckers-strike-from-today/article24466740.ece">Truckers’ strike from today</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/let-us-regulate-our-own-films/article24468069.ece">‘Let us regulate our own films’</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/no-hesitation-in-facing-scrutiny-in-jaya-death/article24466773.ece">No hesitation in facing scrutiny in Jaya death case: Apollo chief</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/video-door-phones-a-better-option-say-police/article24468163.ece">Video door phones a better option, say police</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/panel-formed-to-curb-foul-play-in-accident-cases/article24466748.ece">Panel formed to curb foul play in accident cases</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/55-case-bundles-missing-from-another-court/article24466715.ece">Missing files from Court of Small Causes a big mystery</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/planning-for-madras-week-begins-in-right-earnest/article24466724.ece">Planning for Madras Week begins in right earnest</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/commissioner-reviews-probe/article24466737.ece">Commissioner reviews probe</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/neighbour-rescues-woman/article24466745.ece">Neighbour rescues woman</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/mtc-plans-to-put-t-nagar-bus-terminus-to-commercial-use/article24466747.ece">MTC plans to put T. Nagar bus terminus to commercial use</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/viu-forays-into-tamil-market/article24468077.ece">Viu forays into Tamil market</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/asi-plans-to-upgrade-seven-monuments-in-state/article24467900.ece">ASI plans to upgrade seven monuments in State</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/i-t-officials-take-highways-contractor-to-madurai/article24466782.ece">I-T officials take contractor to Madurai</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/women-residents-go-on-the-front-foot-at-complex/article24468161.ece">Women residents go on the front foot at complex</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/stunt-unions-sign-pact-on-hiring-50-of-artistes-from-the-state-where-a-film-is-shot/article24466722.ece">Stunt unions sign pact on hiring 50% of artistes from the State where a film is shot</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/heart-attack-management-clusters-soon/article24466731.ece">Heart attack management clusters soon</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/man-arrested-for-online-fraud/article24466741.ece">Man arrested for online fraud</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/for-mylapores-jadai-maker-its-a-labour-of-love/article24468071.ece">For Mylapore’s jadai maker, it’s a labour of love</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/narikurava-children-learn-to-dream/article24466720.ece">Narikurava children learn to dream in Ambattur school</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/court-calls-for-records-in-fera-case-against-dhinakaran/article24467901.ece">Court calls for records in FERA case against Dhinakaran</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/ceg-alumni-to-host-global-meet/article24466725.ece">CEG alumni to host global meet</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/centenary-celebration-of-gujarati-kanyashala/article24468072.ece">Centenary celebration of Gujarati Kanyashala</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/send-list-of-i-t-raids-to-cbi-or-dvac-stalin/article24466780.ece">Send list of I-T raids to CBI or DVAC: Stalin</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/new-facility-for-bsnl-customers/article24466729.ece">New facility for BSNL customers</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/traders-protest-steep-hike-in-rent/article24466742.ece">Traders protest steep hike in rent</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/v-c-selection-panel-formed/article24466771.ece">V-C selection panel formed</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/ammk-appoints-zonal-point-persons/article24466769.ece">AMMK appoints zonal point persons</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/dmk-delegation-to-meet-governor/article24466776.ece">DMK to meet Governor</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/special-cells-for-inter-caste-couples/article24466770.ece">Special cells for inter-caste couples</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/transgenders-arrested-for-robbery/article24466734.ece">Transgenders arrested for robbery</a></li>	</ul>
+<h4>coimbatore</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/underground-sewer-work-leaves-road-badly-damaged/article24466794.ece">Underground sewer work leaves road badly damaged</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/railways-rewards-app-users/article24466986.ece">Railways rewards app users</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/now-an-lpg-iron-to-press-clothes/article24466755.ece">Move over coal and electric iron boxes, gas-run irons are here</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/man-beats-up-son-in-law/article24466775.ece">Man beats up son-in-law</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/tattoo-lands-man-in-trouble/article24466795.ece">Tattoo lands man in trouble</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/woman-beats-up-husband-over-tattoo-of-a-girls-name/article24466783.ece">Tattoo of girl’s name lands man in trouble</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/police-officers-stabbed-2-arrested/article24466787.ece">Police officers stabbed; 2 arrested</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/cbi-told-to-give-closure-report/article24466786.ece">CBI told to give closure report to DSP’s father</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/arumugam-used-forged-certificates-police/article24466796.ece">Arumugam used forged certificates: police</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/fop-unit-inaugurated/article24466798.ece">FoP unit inaugurated</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/covai-seed-festival-begins-tomorrow/article24466992.ece">Covai seed festival begins tomorrow</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/power-shutdown/article24466799.ece">Power shutdown</a></li>	</ul>
+<h4>erode</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/water-released-into-kalingarayan-canal-for-raising-first-crop/article24467001.ece">Water released into Kalingarayan Canal for raising first crop</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/special-exhibition-on-pooja-articles-at-poompuhar/article24466988.ece">Special exhibition on pooja articles at Poompuhar</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/plea-to-operate-buses-to-schools/article24466995.ece">Plea to operate buses to schools</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/prevent-overloaded-lorries-from-using-dhimbam-ghat-road/article24466997.ece">‘Prevent overloaded lorries from using Dhimbam Ghat Road’</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/youth-held-for-sexual-assault/article24467002.ece">Youth held for sexual assault</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/farmer-alleges-forgery-in-sanctioning-subsidy-for-drip-irrigation-scheme/article24466996.ece">Farmer alleges forgery in sanctioning subsidy for drip irrigation scheme</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/power-shutdown/article24466999.ece">power shutdown</a></li>	</ul>
+<h4>karur</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/amaravathi-water-reaches-karur/article24466963.ece">Amaravathi water reaches Karur</a></li>	</ul>
+<h4>krishnagiri</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/three-held-for-video-piracy-cinema-sealed/article24467004.ece">Three held for video piracy, cinema sealed</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/parents-to-get-sms-alert-on-students-absence/article24466990.ece">Parents to get SMS alert on students’ absence</a></li>	</ul>
+<h4>madurai</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/special-children-walk-out-with-offer-letters/article24467177.ece">Special children walk out with offer letters</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/mkus-one-time-offer-to-clear-backlog-still-on-paper/article24467189.ece">MKU’s ‘one-time offer’ to clear backlog still on paper</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/entrepreneurs-urged-to-find-viable-alternatives-to-plastic/article24467182.ece">Entrepreneurs urged to find viable alternatives to plastic</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/assault-of-swami-agnivesh-direct-attack-on-democracy/article24467188.ece">‘Assault of Swami Agnivesh direct attack on democracy’</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/violence-against-women-children-condemned/article24467175.ece">Violence against women, children condemned</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/plea-for-reintroduction-of-pass-fail-system/article24467191.ece">Plea for reintroduction of pass-fail system</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/committee-formed-to-assess-quarry-sites/article24467179.ece">Committee formed to assess quarry sites</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/high-court-restrains-functioning-of-college-correspondent/article24467178.ece">High Court restrains functioning of college correspondent</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/initiate-rent-control-proceedings-under-old-law-for-now-hc/article24467903.ece">Initiate rent control proceedings under old law, for now: HC</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/gang-assaults-youth/article24467184.ece">Gang assaults youth in Madurai</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/school-correspondent-granted-bail/article24466967.ece">School correspondent granted bail</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/hc-stays-fir-proceedings/article24467186.ece">HC stays FIR proceedings</a></li>	</ul>
+<h4>mettur</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/ias-officers-to-monitor-mettur-outflow/article24466753.ece">IAS officers to monitor Mettur flow</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/water-released-for-farming/article24466751.ece">Water released for farming activity</a></li>	</ul>
+<h4>nagercoil</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/congress-men-picked-up-for-questioning-in-cheating-case/article24467180.ece">Cheating case: Congress men picked up for questioning</a></li>	</ul>
+<h4>namakkal</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/flood-warning-issued/article24466994.ece">Flood warning issued</a></li>	</ul>
+<h4>new delhi</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/sc-refuses-to-stay-order-on-bjp-mlas/article24466750.ece">SC refuses to stay HC order on BJP MLAs</a></li>	</ul>
+<h4>puducherry</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/tourist-spots-to-get-a-major-facelift/article24468080.ece">Tourist spots to get a major facelift</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/revised-proposal-for-power-network-improvement-submitted/article24468086.ece">Revised proposal for power network improvement submitted</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/bjp-workers-arrested/article24468084.ece">BJP workers arrested</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/rescue-training-in-schools/article24468076.ece">Rescue training in schools</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/puducherry-unanimously-adopts-resolution-seeking-statehood/article24466946.ece">Puducherry House unanimously adopts resolution seeking statehood</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/teacher-arrested-for-sexually-abusing-girls/article24467005.ece">Teacher arrested for sexually abusing girls</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/on-fee-concession/article24466947.ece">MBBS students get concession</a></li>	</ul>
+<h4>pudukottai</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/100-kg-of-sea-cucumber-seized/article24466790.ece">Sea cucumber seized</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/security-up-in-pudukottai-for-governors-visit/article24466951.ece">Security up for Governor’s visit</a></li>	</ul>
+<h4>ramanathapuram</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/women-unemployed-to-get-training-in-cloth-bag-making/article24466971.ece">Women, unemployed to get training in cloth bag making</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/tn-golden-jubilee-sporting-events-take-off-in-ramnad/article24466974.ece">TN golden jubilee: sporting events take off in Ramnad</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/consultants-inspect-coastal-tourism-circuit-projects/article24466972.ece">Consultants inspect coastal tourism circuit projects</a></li>	</ul>
+<h4>salem</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/ninth-century-oil-extractor-found/article24466985.ece">Ninth Century oil extractor found</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/periyar-university-signs-mou-with-curtin-university-malaysia/article24466993.ece">Periyar University signs MoU with Curtin University, Malaysia</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/seeman-8-party-cadres-granted-bail/article24466768.ece">Seeman, party cadre get bail</a></li>	</ul>
+<h4>thoothukudi</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/salt-pans-and-fishing-activity-thrive/article24468157.ece">Salt pans and fishing activity thrive</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/18-athletes-bag-honours-in-sports-meet/article24468148.ece">18 athletes bag honours in sports meet</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/applications-invited/article24468146.ece">Applications invited</a></li>	</ul>
+<h4>tiruchi</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/hopes-of-bountiful-harvest-rise/article24466959.ece">Hopes of bountiful harvest rise</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/monitoring-officers-inspect-kudimaramathu-works/article24466958.ece">Monitoring officers inspect kudimaramathu works</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/namperumal-idol-was-not-replaced/article24466789.ece">Namperumal idol was not replaced, says chief priest</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/high-drama-at-congress-office/article24466950.ece">High drama at Congress office</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/remand-prisoner-ends-life-in-pudukottai-jail/article24466952.ece">Remand prisoner ends life in Pudukottai Jail</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/railway-man-bags-gold-medal/article24466944.ece">Railway man bags gold medal at athletic meet</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/power-shutdown/article24466949.ece">Power shutdown tomorrow</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/vaishnavism-programme-inaugurated/article24466954.ece">Vaishnavism programme inaugurated</a></li>	</ul>
+<h4>tirunelveli</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/special-prayers-offered-to-two-idols/article24466976.ece">Special prayers offered to idols</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/follow-norms-while-adopting-child/article24468158.ece">‘Follow norms while adopting child’</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/power-shutdown/article24468151.ece">Power shutdown</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/water-level/article24468160.ece">Water level</a></li>	</ul>
+<h4>tirupur</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/furore-over-transfer-of-dalit-cook/article24466756.ece">Transfer of Dalit cook brings matters to a boil</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/chain-snatched-from-teacher/article24466797.ece">Chain snatched from teacher</a></li>	</ul>
+<h4>tiruvannamalai</h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/four-arrested-for-assaulting-russian/article24466779.ece">Four arrested for assaulting Russian</a></li>	</ul>
+<h4></h4>
+<ul class="archive-list">
+<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/make-use-of-copious-water-in-dams-theni-collector/article24466969.ece">Make use of copious water in dams: Theni Collector</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/we-will-march-to-parliament-in-november-says-farmers-body/article24466980.ece">Need for changes in agrarian policy</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/woman-robbed-of-two-gold-chains/article24467183.ece">Woman robbed of two gold chains</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/puducherry-assembly-adjourned-without-passing-budget/article24468081.ece">Puducherry Assembly adjourned without passing budget</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/55-case-bundles-missing-from-another-court/article24466749.ece">55 case bundles missing from another court</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/dalit-leader-appears-in-court/article24466975.ece">Dalit leader appears in court</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/biometric-door-system-installed/article24466981.ece">Biometric door system installed</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/a-pleasant-surprise/article24468074.ece">A pleasant surprise</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/road-to-disaster/article24466956.ece">Road to disaster</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/twilight-beauty/article24468155.ece">Twilight beauty</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/correction/article24466991.ece">Correction</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/engagements-on-20-07-2018/article24466800.ece">Engagements on 20-07-2018</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/20-07-18-city-cinema/article24466726.ece">20-07-18-city-cinema</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/chennai-today/article24466738.ece">CHENNAI TODAY</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/dindigul-engagements/article24466982.ece">Dindigul engagements</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/salem/article24467003.ece">SALEM</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/madurai-today/article24467185.ece">Madurai Today</a></li>	<li><a href="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/engagements/article24468149.ece">enGAGEMENTS</a></li>	</ul>
+</div>
+</div>
+</div>
+</div>	</section>	</div>
+<aside class="tp-aside">
+<div class="row">
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_CPD, publisher: The Hindu -->
+<div id="div-gpt-ad-1522408211443-0" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1522408211443-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_CPD, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_RT, publisher: The Hindu -->
+<div id="div-gpt-ad-1521616786341-1" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521616786341-1'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_RT, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_RM, publisher: The Hindu -->
+<div id="div-gpt-ad-1521628815528-3" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521628815528-3'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_RM, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_RB, publisher: The Hindu -->
+<div id="div-gpt-ad-1521628815528-4" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521628815528-4'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_RB, publisher: The Hindu -->
+<div class="50_1x_StoryCard mobile-padding hidden-sm hidden-md hidden-lg">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<script>
+eagerLoading();
+</script>
+<script>
+eagerLoading();
+</script>
+<!-- Begin DFP : /22390678/Hindu_WAP_CPD_300x250, publisher: The Hindu -->
+<div id="div-gpt-ad-1518415239830-0" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[large, medium]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518415239830-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_CPD_300x250, publisher: The Hindu -->
+</div>
+</div>
+<div class="4x_TrendingTheHinduTodayCarousel other-article">
+<div class="col-xs-12 hover-icon">
+<div class="promoted-story trending-carousel-container tThHinduTdayCr-cont">
+<div class="promoted-story-heading trending-carousel-heading-container">
+<span calss="promoted-news-heading trending-carousel-heading left tThHinduTdayCr-heading">
+Trending on The Hindu
+</span> </div>
+<div class="tc1-slider tc1-slider1 tThHinduTdayCr-slider">
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/live-updates-from-monsoon-session-of-parliament-day-2/article24458145.ece" class="tc-text-block" title="Updated: July 19, 2018 19:32 IST&#013;Published: July 19, 2018 10:56 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 13K
+</span>
+Monsoon session of Parliament 2018, Day 2 | As it happened
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/opinion/editorial/rocky-summit/article24454560.ece" class="tc-text-block" title="Updated: July 18, 2018 23:14 IST&#013;Published: July 19, 2018 00:02 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 12K
+</span>
+Rocky summit: when Trump met Putin
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/international/israeli-parliament-passes-contentious-jewish-nation-bill/article24458769.ece" class="tc-text-block" title="Updated: July 19, 2018 14:30 IST&#013;Published: July 19, 2018 13:15 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 12K
+</span>
+Israeli Parliament passes contentious Jewish nation law
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/business/rbi-to-issue-new-lavender-colour-100-note/article24460698.ece" class="tc-text-block" title="Updated: July 19, 2018 19:25 IST&#013;Published: July 19, 2018 16:10 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 11K
+</span>
+RBI to issue new lavender colour smaller ₹100 note
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/kerala/kalyan-jewellery-ad-featuring-bachchan-daughter-raises-hackles-of-bank-union/article24453155.ece" class="tc-text-block" title="Updated: July 19, 2018 01:34 IST&#013;Published: July 18, 2018 19:31 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 11K
+</span>
+Kalyan jewellery ad featuring Bachchan, daughter raises hackles of bank union </a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/cities/mumbai/sonali-bendres-story-triggers-rise-in-check-ups/article24455349.ece" class="tc-text-block" title="Updated: July 19, 2018 07:57 IST&#013;Published: July 19, 2018 00:55 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 11K
+</span>
+Sonali Bendre’s story triggers rise in check-ups
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/changes-will-make-rti-act-useless-rahul-gandhi/article24458567.ece" class="tc-text-block" title="Updated: July 19, 2018 22:39 IST&#013;Published: July 19, 2018 12:26 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 10K
+</span>
+Send new RTI Bill for scrutiny: Opposition
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/opinion/editorial/a-fishy-matter/article24454561.ece" class="tc-text-block" title="Updated: July 18, 2018 23:19 IST&#013;Published: July 19, 2018 00:02 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 10K
+</span>
+A fishy matter: on the formaldehyde contamination of fish </a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/karnataka/why-is-a-particular-section-of-society-opposing-me-kumaraswamy/article24453978.ece" class="tc-text-block" title="Updated: July 19, 2018 10:00 IST&#013;Published: July 18, 2018 21:37 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 9K
+</span>
+Why is a particular section of society opposing me: Kumaraswamy
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/where-a-man-can-enter-a-woman-can-go-cji-observes-in-sabarimala-case/article24452080.ece" class="tc-text-block" title="Updated: July 18, 2018 23:45 IST&#013;Published: July 18, 2018 17:04 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 8K
+</span>
+‘Where a man can enter, a woman can go’, CJI observes in Sabarimala case
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/cities/mumbai/indefinite-transport-strike-from-july-20/article24437520.ece" class="tc-text-block" title="Updated: July 17, 2018 00:57 IST&#013;Published: July 17, 2018 00:57 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 8K
+</span>
+Indefinite transport strike from July 20
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/tamil-nadu/minor-girl-raped-in-ayanavaram/article24437282.ece" class="tc-text-block" title="Updated: July 17, 2018 11:47 IST&#013;Published: July 17, 2018 00:31 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 7K
+</span>
+Minor girl raped in Chennai for over six months
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/karnataka/shiroor-mutt-seer-passes-away/article24457992.ece" class="tc-text-block" title="Updated: July 19, 2018 15:58 IST&#013;Published: July 19, 2018 10:28 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 7K
+</span>
+Shiroor Mutt head Lakshmivara Tirtha Swami passes away </a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/isro-ropes-in-three-partners/article24454488.ece" class="tc-text-block" title="Updated: July 19, 2018 01:30 IST&#013;Published: July 18, 2018 22:34 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 6K
+</span>
+ISRO ropes in three partners to assemble 27 satellites </a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/opinion/op-ed/the-tough-road-to-academic-excellence/article24454595.ece" class="tc-text-block" title="Updated: July 18, 2018 22:59 IST&#013;Published: July 19, 2018 00:02 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 5K
+</span>
+The tough road to academic excellence </a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/rajya-sabha-off-to-a-smooth-start-opposition-on-board/article24454579.ece" class="tc-text-block" title="Updated: July 19, 2018 10:29 IST&#013;Published: July 18, 2018 22:47 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 5K
+</span>
+Rajya Sabha off to a smooth start, Opposition on board
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/chabahar-port-project-delayed-due-to-iran-jaishankar/article24455469.ece" class="tc-text-block" title="Updated: July 19, 2018 01:06 IST&#013;Published: July 19, 2018 01:06 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 5K
+</span>
+Chabahar port project delayed due to Iran: Jaishankar
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/sc-reserves-verdict-on-pleas-challenging-constitutional-validity-of-section-377/article24443042.ece" class="tc-text-block" title="Updated: July 17, 2018 23:44 IST&#013;Published: July 17, 2018 16:27 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 5K
+</span>
+Accept gay relationships; all suppression is wrong, says Supreme Court
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/opinion/lead/getting-the-language-count-right/article24454570.ece" class="tc-text-block" title="Updated: July 18, 2018 23:11 IST&#013;Published: July 19, 2018 00:02 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 5K
+</span>
+Getting the language count right
+</a>
+</h3>
+</div>
+<div class="tc1-slide">
+<h3>
+<a href="https://www.thehindu.com/news/national/no-confidence-motion-not-a-numbers-game-but-occasion-to-expose-government-congress/article24462528.ece" class="tc-text-block" title="Updated: July 19, 2018 19:47 IST&#013;Published: July 19, 2018 19:27 IST">
+<span class="section-heading">
+<i class="fa fa-eye"></i> 4K
+</span>
+No-confidence motion is not just a numbers game, but an occasion to expose government: Congress </a>
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$( document ).ready(function() {
+$('.tThHinduTdayCr-slider').slick({
+slidesToShow: 5,
+slidesToScroll: 1,
+vertical: true,
+autoplay: false,
+autoplaySpeed: 3000,
+draggable: true,
+swipeToSlide: true,
+prevArrow: '<div class="top-arrow"></div>',
+nextArrow: '<div class="bottom-arrow"></div>',
+responsive: [
+{
+breakpoint: 1023,
+settings: {
+accessibility: false,
+slidesToShow: 3,
+slidesToScroll: 1,
+infinite: true,
+dots: false,
+vertical: false,
+arrows: false,
+variableWidth: true
+}
+}
+// You can unslick at a given breakpoint now by adding:
+// settings: "unslick"
+// instead of a settings object
+]
+});
+});
+</script>
+<!-- Begin DFP : /22390678/Hindu_WAP_Middle, publisher: The Hindu -->
+<div id="div-gpt-ad-1518415239830-1" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[large, medium]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518415239830-1'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_Middle, publisher: The Hindu -->
+<div class="wf-placeholder"
+data-loadURL="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/wf.fragment/a051637e-a6f6-4c22-b5fc-a480ad7e2536"
+data-elementwidth="1140.0"
+data-skip-profiles="medium,small"></div>
+<!-- Begin DFP : /22390678/Hindu_WAP_Bottom, publisher: The Hindu -->
+<div id="div-gpt-ad-1518415239830-2" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[large, medium]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518415239830-2'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_Bottom, publisher: The Hindu -->
+<div class="newsletter_rhs mobile-padding clear">
+<div class="col-xs-12 col-sm-6">
+<div class="newsletter-container hidden-sm">
+<div class="hidden-sm">
+<div class="newsletter-container">
+<p>Sign up to receive our newsletter in your inbox every day!</p>
+<div class="newsletter">
+<input type="text" placeholder="ENTER YOUR EMAIL ADDRESS" class="nl-input" name="email">
+<button type="button" id="nl_button" class="nl-submit">GO</button>
+<div class="nl-error" style="display:none">
+<p>Please enter a valid email address.</p>
+</div>
+<div class="nl-success" style="display:none"></div>
+<div class="nl-load"></div>
+</div>
+</div>
+<script>
+var emailAddressFilter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/;
+function validate_email(fieldId) {
+var email = $(fieldId).val();
+email= email.trim();
+if (email == "" || email == "undefined") {
+return false;
+} else if (!emailAddressFilter.test(email)) {
+return false;
+}
+return true;
+}
+<!-- article page contains multiple times if infinite scroll is enabled. -->
+$(document).ready(function(){
+$(".newsletter-container button.nl-submit:last").on("click", function(event){
+$(this).attr("disabled","disabled");
+var selector = $(this).closest(".newsletter");
+$(selector).find("input").click(function(){$(selector).find("button").removeAttr("disabled");});
+var email = $(selector).find("input").val();
+email= email.trim();
+$(selector).find(".nl-error").css("display", "none");
+$(selector).find(".nl-success").css("display", "none");
+$(selector).find("input").removeClass("error");
+if (validate_email($(selector).find("input"))){
+$(selector).find(".nl-load").show();
+var data = {	"email" : email, "category" : "newsletter"};
+$.ajax({
+type : "POST",
+contentType : "application/json",
+url : publist("url") + "s/mailsubscription/subscribe/",
+data : JSON.stringify(data),
+dataType : 'json',
+timeout : 10000,
+success : function(response) {
+$(selector).find(".nl-success").html("<p>"+response.data+"</p>");
+$(selector).find(".nl-success").css("display", "block");
+$(selector).find(".nl-load").hide();
+},
+error : function(e) {
+// console.log("ERROR: ", e);
+},
+done : function(e) {
+// console.log("DONE");
+}
+});
+} else {
+$(selector).find(".nl-load").fadeOut( "slow");
+$(selector).find(".nl-error").css("display", "block");
+$(selector).find("input").addClass("error");
+}
+});
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_BTF01, publisher: The Hindu -->
+<div id="div-gpt-ad-1521628815528-5" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521628815528-5'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_BTF01, publisher: The Hindu -->
+<div class="stickyadwrapper hidden-xs hidden-sm">
+</div>
+<div class="stickyadwrapper hidden-xs hidden-sm">
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_BTF02, publisher: The Hindu -->
+<div id="div-gpt-ad-1521628815528-6" class="dfp-ad stickybottom" style="">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521628815528-6'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_BTF02, publisher: The Hindu -->
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/wf.fragment/41a8b819-143c-4ef7-98a8-fcf0440fa6c1"
+data-elementwidth="1140.0"
+data-skip-profiles="xlarge,large,medium"></div>
+<!-- Begin DFP : /22390678/Hindu_WAP_Footer, publisher: The Hindu -->
+<div id="div-gpt-ad-1518415239830-3" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[large, medium]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518415239830-3'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_Footer, publisher: The Hindu -->
+</section>
+<section class=" " >
+<div class="wf-placeholder"
+data-loadURL="https://www.thehindu.com/wf.fragment/98453d08-4ff8-4efb-b2ee-cf8b1354123d"
+data-elementwidth="1140"
+data-skip-profiles="small"></div>
+<!-- this marks the end of articles -->
+<div class="special-end-mark"></div>
+<div class="container">
+<div class="full-width-add-footer250 hidden-xs hidden-sm">
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_Billboard, publisher: The Hindu -->
+<div id="div-gpt-ad-1530768416450-0" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]")) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530768416450-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_Billboard, publisher: The Hindu -->
+</div>
+</div>
+</section>
+<footer class=" " >
+<div id="popup-menu"
+class="js-menu">
+<!-- POPUP MENU TOP AREA -->
+<div class="menu-top">
+<div class="container clear">
+<div class="menu-icon">
+<a href="javascript:void(0)" id="" class="close menu-close focus">
+<i class="icon"></i>
+</a>
+</div>
+<a href="javascript:void(0)" class="close menu-close close-top">CLOSE THIS MENU</a>
+</div>
+<!-- AFTER SEARCH FUNCTIONALITY IMPLEMENTED -->
+<div class="popup-search-bar hidden-sm hidden-md hidden-lg">
+<div class="ps-sub-container">
+<form action="https://www.thehindu.com/search/">	<input type="text" class="popup-input search-input" placeholder="Search here" name="q" required></input>
+<span class="popup-remove-text clear-button" style="display:none;"></span>
+<button class="popup-search">
+<i class="fa fa-search"></i>
+</button>
+</form>
+</div>
+</div>
+<div class="container clear">
+<span class="trending-sticky-menu">TRENDING TODAY</span>
+</div>
+<div class="trading-menu clear">
+<ul>
+<li>
+<a href="https://www.thehindu.com/news/cities/chennai/" >
+Chennai
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Hyderabad/" >
+Hyderabad
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/bangalore/" >
+Bengaluru
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/videos/" >
+Videos
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/" >
+Entertainment
+</a>
+</li>
+</ul>
+</div>
+</div>
+<!-- main menu -->
+<div class="containerd clear popup-menu-blue">
+<div class="popup-menu clear">
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/todays-paper/" >
+Today&#039;s Paper
+</a>
+</li>
+<li>
+<a href="https://epaper.thehindu.com/" target="" >
+ePaper
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/" >
+News
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/news/national/" >
+National
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/international/" >
+International
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/states/" >
+States
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/news/national/andhra-pradesh/" >
+Andhra Pradesh
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/karnataka/" >
+Karnataka
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/kerala/" >
+Kerala
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/tamil-nadu/" >
+Tamil Nadu
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/telangana/" >
+Telangana
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/other-states/" >
+Other States
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/" >
+Business
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/business/agri-business/" >
+Agri-Business
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/Industry/" >
+Industry
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/Economy/" >
+Economy
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/markets/" >
+Markets
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/budget/" >
+Budget
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/real-estate/" >
+Real Estate
+</a>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/news/cities/" >
+Cities
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/news/cities/bangalore/" >
+Bengaluru
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/chennai/" >
+Chennai
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Coimbatore/" >
+Coimbatore
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Delhi/" >
+Delhi
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Hyderabad/" >
+Hyderabad
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Kochi/" >
+Kochi
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/kolkata/" >
+Kolkata
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/mumbai/" >
+Mumbai
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/kozhikode/" >
+Kozhikode
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Madurai/" >
+Madurai
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Mangalore/" >
+Mangaluru
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/puducherry/" >
+Puducherry
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Thiruvananthapuram/" >
+Thiruvananthapuram
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Tiruchirapalli/" >
+Tiruchirapalli
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Vijayawada/" >
+Vijayawada
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Visakhapatnam/" >
+Visakhapatnam
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/" >
+Elections
+</a>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/opinion/" >
+Opinion
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/opinion/editorial/" >
+Editorial
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/lead/" >
+Lead
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/op-ed/" >
+Comment
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/columns/" >
+Columns
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/interview/" >
+Interview
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/cartoon/" >
+Cartoon
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/open-page/" >
+Open Page
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/Readers-Editor/" >
+Readers&#039; Editor
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/letters/" >
+Letters
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/" >
+Sport
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/sport/athletics/" >
+Athletics
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/cricket/" >
+Cricket
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/football/" >
+Football
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/hockey/" >
+Hockey
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/motorsport/" >
+Motorsport
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/other-sports/" >
+Other Sports
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/races/" >
+Races
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/tennis/" >
+Tennis
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/entertainment/" >
+Entertainment
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/entertainment/art/" >
+Art
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/dance/" >
+Dance
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/movies/" >
+Movies
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/music/" >
+Music
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/reviews/" >
+Reviews
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/theatre/" >
+Theatre
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/society/" >
+Society
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/society/faith/" >
+Faith
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/society/history-and-culture/" >
+History &amp; Culture
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/books/" >
+Books
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/books/books-reviews/" >
+Reviews
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/books/books-authors/" >
+Authors
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/children/" >
+Children
+</a>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/life-and-style/" >
+Life &amp; Style
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/life-and-style/fashion/" >
+Fashion
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/fitness/" >
+Fitness
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/food/" >
+Food
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/motoring/" >
+Motoring
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/travel/" >
+Travel
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/homes-and-gardens/" >
+Homes and gardens
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/luxury/" >
+Luxury
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/technology/" >
+Technology
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/sci-tech/technology/gadgets/" >
+Gadgets
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/technology/internet/" >
+Internet
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/" >
+Sci-Tech
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/sci-tech/science/" >
+Science
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/technology/" >
+Technology
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/health/" >
+Health
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/agriculture/" >
+Agriculture
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/energy-and-environment/" >
+Environment
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/education/" >
+Education
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/education/careers/" >
+Careers
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/education/colleges/" >
+Colleges
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/education/schools/" >
+Schools
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/multimedia/" >
+Multimedia
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/photos/" >
+Photos
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/videos/" >
+Videos
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/podcast/" >
+Podcast
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/data/" >
+Data
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/specials/" >
+Specials
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/crossword/" >
+Crossword
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/resources/" >
+Resources
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/Tags/" >
+Tags
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/thread/" >
+thREAD
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/theatre-fest/" >
+Theatre - Fest
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/november-fest/" >
+November Fest
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/lit-for-life/" >
+Lit for Life
+</a>
+</li>
+</ul>
+</div>
+<div class="other-menu clear">
+<ul class="menu">
+<li>
+<a href="https://www.thehindu.com/archive/" >
+Archive
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/classifieds/" >
+Classifieds
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/ebooks/" >
+eBooks
+</a>
+</li>
+<li>
+<a href="http://www.thehindugroup.in/subscribe/" target="" >
+Subscribe
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/social/" >
+Social
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/aboutus/" >
+About Us
+</a>
+</li>
+</ul>
+<ul class="socialize">
+<li>
+<span>CONNECT WITH US</span>
+</li>
+<li>
+<a href="https://www.facebook.com/thehindu" title="Facebook" target="_blank">
+<i class="fa fa-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/The_Hindu" title="Twitter!" target="_blank">
+<i class="fa fa-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/the-hindu" title="Linkdin" target="_blank">
+<i class="fa fa-linkedin"></i>
+</a>
+</li>
+<li>
+<a href="https://instagram.com/the_hindu/?ref=badge" title="Instagram" target="_blank">
+<i class="fa fa-instagram"></i>
+</a>
+</li>
+</ul>
+</div>
+<div class="popup-menu-blue-close clear">
+<div style="margin-right:25px;">
+<a href="javascript:void(0)" class="close menu-close popup-bottom-close right">
+<i class="close-icon"></i>
+CLOSE THIS MENU
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<section id="GA-tracking-bottom"
+class="header-top footer-menu clear">
+<!-- [Socialize] -->
+<div class="socialize hidden-xs">
+<ul>
+<li><a href="https://www.facebook.com/thehindu" class="fb" title="Connect on Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/The_Hindu" class="tw" title="Follow on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.linkedin.com/company/the-hindu" class="in" title="Connect on Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+<li><a href="https://instagram.com/the_hindu/?ref=badge" class="ins" title="Follow on Instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><<a target="_blank" href="https://www.thehindu.com/newsletter-subscription/" class="usernews" title="Subscribe to our Newsletter"><i class="fa fa-envelope"></i></a></li>
+<li><a href="https://www.thehindu.com/social/" class="user androidos" title="Install our Android &amp; iOS apps"><i class="fa fa-mobile"></i></a></li>
+<li><a href="https://epaper.thehindu.com/home/directsubscription/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" class="ePaper" title="ePaper">ePaper</a></li>
+<!-- <li><a href="https://epaper.thehindu.com/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" class="user" title="ePaper"><i class="fa fa-newspaper-o"></i></a></li> -->
+</ul>
+</div>
+<!-- [/Socialize] -->
+<div class="footer-logo">
+<a href="https://www.thehindu.com/">
+<img src="https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png" alt="Return to frontpage">
+</a>
+</div>
+<div class="search-block hidden-xs hidden-sm">
+<form action="https://www.thehindu.com/search/">	<input type="text" data-type="search" placeholder="Search here"
+name="q" required oninvalid="setCustomValidity('Please enter your search text.')" oninput="setCustomValidity('')">	<button class="fa fa-search search-selection-icon"
+style="background: none !important; color: black"></button>
+<input type="hidden" name="order" value="DESC">
+<input type="hidden" name="sort" value="publishdate">
+</form>
+</div>
+</section>
+<nav class="navbar footer-main-menu clear hidden-xs " role="navigation" >
+<div id="main-menu"
+>
+<ul class=" hidden-xs">
+<li class="">
+<a href="https://www.thehindu.com/">
+Home
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/news/">
+News
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/opinion/">
+Opinion
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/business/">
+Business
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/sport/">
+Sport
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/sport/cricket/">
+Cricket
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/sci-tech/science/">
+Science
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/entertainment/">
+Entertainment
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/life-and-style/">
+Life &amp; Style
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/thread/">
+thREAD
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<nav class="navbar footer-sub-menues " role="navigation" >
+<div class="the-sites clear">
+<span class="footer-nav-heading blue-color hidden-xs">THE SITE</span>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.thehindu.com/aboutus/">
+About Us
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/termsofuse/">
+Terms of Use
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/privacypolicy/">
+Privacy Policy
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/contacts/">
+Contacts
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/archive/">
+Archive
+</a>
+</li>
+<li class="">
+<a href="http://www.thehindugroup.in/subscribe/" target="">
+Subscribe
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/rssfeeds/">
+Rss Feeds
+</a>
+</li>
+</ul>
+</div>
+<div class="group-sites clear hidden-xs">
+<span class="footer-nav-heading blue-color hidden-xs">GROUP SITES</span>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.thehindu.com/" target="">
+The Hindu
+</a>
+</li>
+<li class="">
+<a href="https://tamil.thehindu.com/" target="">
+இந்து தமிழ் திசை
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindubusinessline.com/" target="">
+Business Line
+</a>
+</li>
+<li class="">
+<a href="https://www.bloncampus.com/" target="">
+BL on Campus
+</a>
+</li>
+<li class="">
+<a href="https://www.sportstarlive.com/" target="">
+Sportstarlive
+</a>
+</li>
+<li class="">
+<a href="https://www.frontline.in/" target="">
+Frontline
+</a>
+</li>
+<li class="">
+<a href="https://www.thehinducentre.com/" target="">
+The Hindu Centre
+</a>
+</li>
+<li class="">
+<a href="https://roofandfloor.com/?utm_source=thehindu&utm_medium=referral&utm_campaign=Internal-Marketing" target="">
+RoofandFloor
+</a>
+</li>
+<li class="">
+<a href="https://steptest.in/" target="">
+STEP
+</a>
+</li>
+<li class="">
+<a href="http://www.youngworldclub.com/" target="">
+Young World Club
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/publications/" target="">
+Publications
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/ebooks/" target="">
+eBooks
+</a>
+</li>
+<li class="">
+<a href="https://www.thehinduimages.com/" target="">
+Images
+</a>
+</li>
+<li class="">
+<a href="http://www.thehinduclassifieds.in/" target="">
+Classifieds
+</a>
+</li>
+</ul>
+</div>
+<div class="comment-to clear hidden-xs">
+<span class="footer-nav-heading blue-color">Send your feedback to:</span>
+<a href="mailto:web.thehindu@thehindu.co.in">web.thehindu@thehindu.co.in</a>Copyright© 2018, The Hindu
+</div>
+<div class="back-top" style="display: block;"><a href="#top"><i class="fa fa-angle-up"></i></a></div>
+</nav>
+<nav class="navbar navbar-default " role="navigation" >
+<ul class="nav navbar-nav ">
+</ul>
+</nav>
+</div>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m,n){
+i['moengage_object']=r;t={}; q = function(f){return function(){(i['moengage_q']=i['moengage_q']||[]).push({f:f,a:arguments});};};
+f = ['track_event','add_user_attribute','add_first_name','add_last_name','add_email','add_mobile',
+'add_user_name','add_gender','add_birthday','destroy_session','add_unique_user_id','moe_events','call_web_push','track','location_type_attribute'];
+for(k in f){t[f[k]]=q(f[k]);}
+a=s.createElement(o);m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+i['moe']=i['moe'] || function(){n=arguments[0];return t;}; a.onload=function(){if(n){i[r] = moe(n);}};
+})(window,document,'script','https://cdn.moengage.com/webpush/moe_webSdk.min.latest.js','Moengage');
+Moengage = moe({
+app_id:"BIELH8M8CONB0AXBRWP0FYQP",
+debug_logs: 0
+});
+var exit = true;
+function exitcall(){
+if(!isMobile){
+Moengage.call_web_push({
+"soft_ask":true,
+"main_class":"moe-main-class",
+"allow_class":"moe-allow-class",
+"block_class":"moe-block-class",
+"soft_ask_display_callback":function(){
+ga('send', 'event', "Soft Notification", "popup", "View");
+},
+"soft_ask_allow_callback":function(){
+ga('send', 'event', "Soft Notification", "click", "Allow");
+},
+"soft_ask_block_callback":function(){
+ga('send', 'event', "Soft Notification", "click", "Block");
+},
+"hard_ask_allow_callback":function(){
+ga('send', 'event', "Hard Notification", "click", "Allow");
+if(typeof(Notification)=="function" && !isMobile ){
+spawnNotification("You can manage your subscriptions from the browser settings.", "https://www.thehindu.com/static/theme/default/base/img/thlogo1.png","Thank you for Subscribing!");
+} },
+"hard_ask_dismiss_callback":function(){
+ga('send', 'event', "Hard Notification", "click", "Dismiss");
+},
+"hard_ask_block_callback":function(){
+ga('send', 'event', "Hard Notification", "click", "Block");
+}
+});
+}
+}
+function spawnNotification(theBody,theIcon,theTitle) { var options = { body: theBody, icon: theIcon }; navigator.serviceWorker.ready.then(function(sw_reg){
+var n = sw_reg.showNotification(theTitle,options); }).catch(function(e){console.log(e);});
+}
+function addEvent(obj, evt, fn) {
+if (obj.addEventListener) {
+obj.addEventListener(evt, fn, false);
+}
+else if (obj.attachEvent) {
+obj.attachEvent("on" + evt, fn);
+}
+}
+addEvent(document, 'mouseout', function(evt) {
+if (evt.toElement == null && evt.relatedTarget == null && exit ==true) {
+exit=false;
+exitcall();
+};
+});
+</script>
+<style>
+.moe-main-class{
+width: 100%;
+background: rgba(0,0,0,.5);
+position: fixed;
+z-index: 10000000;
+top: 0;
+padding-bottom: 5px;
+}
+.pushnotification-wrapper {
+max-width: 470px;
+margin: 0 auto;
+font-family: 'Fira-Sans',sans-serif;
+}
+.pushnotification-wrapper .pushnotification-content {
+color: #555;
+background-color: #2a5d88;
+box-shadow: 2px 2px 5px rgba(0,0,0,.2);
+padding: 15px 15px 10px 15px;
+}
+.pushnotification-wrapper .pushnotification-logo {
+float: left;
+width: 75px;
+}
+.pushnotification-wrapper .pushnotification-text {
+max-width: 400px;
+display: table;
+padding: 0 0 0 15px;
+color: #fff;
+}
+.pushnotification-wrapper .pushnotification-text h4 {
+font-family: 'Fira-Sans-Semibold',sans-serif;
+font-weight: bold;
+font-size: 16px;
+margin: 0;
+line-height: 20px;
+color: #fc0;
+}
+.pushnotification-wrapper .pushnotification-text p {
+font-size: 12px;
+font-family: 'Fira-Sans',sans-serif!important;
+padding: 10px 0 0 0;
+margin: 0;
+line-height: 18px;
+}
+.pushnotification-wrapper .pushnotification-btn-group{
+background: #fff;
+padding: 5px 10px;
+text-align: right;
+}
+.pushnotification-wrapper .pushnotification-btn-group .btn {
+font-size: 12px;
+font-weight: bold;
+border: 0;
+padding: 10px;
+cursor: pointer;
+transition: all .5s ease-in-out 0s;
+text-transform: uppercase;
+-webkit-appearance: none;
+vertical-align: middle;
+line-height: normal;
+}
+.pushnotification-wrapper .pushnotification-btn-group .btn.btn-1:hover {
+text-decoration: underline;
+}
+.pushnotification-wrapper .pushnotification-btn-group .btn.btn-1 {
+color: #143b5c;
+background: none;
+}
+.pushnotification-wrapper .pushnotification-btn-group .btn.btn-2:hover {
+transition: unset;
+background: green;
+}
+.pushnotification-wrapper .pushnotification-btn-group .btn.btn-2 {
+color: #fff;
+background: #2a5d88;
+border-radius:5px;
+}
+</style>
+<div class="moe-main-class" style="display:none;">
+<!--<div id="moe-push-div" class="moe-main-class" style="display:none">-->
+<div class="pushnotification-wrapper">
+<div class="pushnotification-content">
+<div class="pushnotification-logo">
+<img src="https://www.thehindu.com/news/national/4bf9pd/article24397798.ece/BINARY/TH-logopush" alt="The Hindu">
+</div>
+<div class="pushnotification-text">
+<h4>Click on ‘Yes, Keep Me Updated’ to get the latest news alerts from The Hindu</h4>
+<p>Our existing notification subscribers need to choose this option to keep getting the alerts.</p>
+</div>
+</div>
+<div class="pushnotification-btn-group">
+<div>
+<button type="button" class="btn btn-1 moe-block-class" >Not now</button>
+<button type="button" class="btn btn-2 moe-allow-class" >Yes, Keep Me Updated</button>
+</div>
+</div>
+</div>
+</div>
+<!-- mCanvas Site Code Starts Here (Required) -->
+<script type="text/javascript">
+if (isMobile) {
+(function(){
+var param = {
+"pk": "vbv80",
+"aduid": 112
+};
+var d=top.document,s=d.createElement("script"),u=[],p;param.u=d.location.href;param.ref=d.referrer;param.phR=Math.random()+"_"+(new Date).getTime();for(p in param)if(param.hasOwnProperty(p))u.push(p+"="+encodeURIComponent(param[p]));s.src="//ic.ph.affinity.com/init.js?"+u.join("&");s.type="text/javascript";d.getElementsByTagName("head")[0].appendChild(s);
+})();
+}
+</script>
+<!-- Sticky Script Start -->
+<script type='text/javascript'>
+$(function(){
+if((isDesktop || isLargeDesktop) && location.href.match(/article[\d]*.ece/) && (!infiniteScroll) ){
+var refernode =$("aside > .row >.stickyadwrapper:last-child");
+var fixedcssSelector = refernode.children(".stickybottom"); var parentnode = $('.article-cont > .row >.col-xs-12');
+var topOffset=60;
+var bottomOffset=25;
+var leftOffset=0;
+var rightOffset=10;
+if(refernode.length > 0 && fixedcssSelector.length > 0 && parentnode.length > 0 ) {
+window.addEventListener("scroll", function(){fixBottomBanner(refernode,fixedcssSelector,parentnode,topOffset,bottomOffset,leftOffset,rightOffset)});
+}
+}
+});
+</script>
+<!-- Sticky Script End-->
+<style>
+.stickyadwrapper{width:300px;margin:0 auto;clear:both;}
+</style>
+<script>
+$( document ).ready(function() {
+$("img.lazy").lazyload();
+});
+<!---GA tracker for social media - start -->
+$(document).ready(function () {
+$("#GA-tracking-top .fb").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link Facebook');
+return true;
+});
+$("#GA-tracking-bottom .fb").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link Facebook');
+return true;
+});
+$("#GA-tracking-top .tw").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link twitter');
+return true;
+});
+$("#GA-tracking-bottom .tw").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link twitter');
+return true;
+});
+$("#GA-tracking-top .in").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link linkedin');
+return true;
+});
+$("#GA-tracking-bottom .in").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link linkedin');
+return true;
+});
+$("#GA-tracking-top .ins").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link Instagram');
+return true;
+});
+$("#GA-tracking-bottom .ins").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link Instagram');
+return true;
+});
+$("#GA-tracking-top .news").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link newsletter');
+return true;
+});
+$("#GA-tracking-bottom .news").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link newsletter');
+return true;
+});
+$("#GA-tracking-top .androidos").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link Android & iOS');
+return true;
+});
+$("#GA-tracking-bottom .androidos").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link Android & iOS');
+return true;
+});
+$("#GA-tracking-top .ePaper").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link epaper');
+return true;
+});
+$("#GA-tracking-bottom .ePaper").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link epaper');
+return true;
+});
+$('*[id^="content-body"] p a').click(function () {
+ga('send', 'event', 'Inline Links', 'Inline Links Click', 'Inline Link');
+return true;
+});
+$("._hoverrDone div.also-view-container .also-view-img-,.article-topics-container .topic-1").click(function () {
+ga('send', 'event', 'More-In Links', 'More-In Links Click', 'More In');
+return true;
+});
+$('*[id^="content-body"] .also-view-text-cont p').click(function () {
+ga('send', 'event', 'Also-Read Links', 'Also-Read Links Click', 'Also Read');
+return true;
+});
+$(".artNL .nl-submit").click(function () {
+ga('send','event','Article Bottom','NewsletterClick_Article Bottom','NewsletterCallToAction_ArticleBottom')
+return true;
+});
+$(".NLemail .nl-submit").click(function () {
+ga('send','event','Newsletter_Headerlanding','NewsletterClick_Headerlanding ','NewsletterCallToAction_Headerlanding')
+return true;
+});
+$("#GA-tracking-top .usernews").click(function () {
+ga('send','event','Newsletter_Top_Header','NewsletterClick_Header ','NewsletterCallToAction_Headernewsletter')
+return true;
+});
+$(".hpNL .nl-submit").click(function () {
+ga('send','event','Subscription Widget Home Page','NewsletterClick_WidgetHomepage ','NewsletterCallToAction_WidgetHomepage')
+return true;
+});
+$("#stickyfooterarticle .fooeterarticleswrapper a").click(function () {
+ga('send','event','Footer Sticky','FooterSticky_Article Bottom','FooterStickyCallToAction_ArticleBottom')
+return true;
+});
+});
+<!---GA tracker for social media - end -->
+</script>
+<!-- GDPR Common JS -->
+<script>
+function overlayControll (evt) {
+if(evt.origin === 'https://creatives.thehindu.com'){
+document.querySelector("#ppoverlay").style.display = "none";
+}
+}
+if (window.addEventListener) {
+window.addEventListener("message", overlayControll, false);
+}
+else {
+window.attachEvent("onmessage", overlayControll);
+}
+</script>
+<style>.moe-push-class{z-index: 60000 !important;}</style>
+<script>
+// load Branch
+if (isMobile) {
+(function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode autoAppIndex banner closeBanner closeJourney creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode trackCommerceEvent".split(" "), 0);
+// init Branch
+branch.init('key_live_epwVtTlqtPT3VMg0ynmwNdloxtcs7PI6');
+}
+</script>
+</footer>
+</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style")
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+)
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<!-- custom mordenizr, can be changed if required by cms. We are currently only using no-csscolumn. Later we may need to use other elements also
+<script src="https://www.thehindu.com/static/js/modernizr.js"></script>-->
+<script type="text/javascript" src="https://www.thehindu.com/static/js/wf-site.4465171dafb06ace1540671c6f04a013.min.js"></script>
+<script>
+(function ($, d) {
+$.each(readyQ, function (i, f) {
+$(f)
+});
+$.each(bindReadyQ, function (i, f) {
+$(d).bind("ready", f)
+})
+})(jQuery, document)</script>
+<script type="text/javascript" src="https://www.thehindu.com/static/js/plug-in.fe6a83e402fd607173fb86977be7c26a.min.js"></script>
+<script src="https://www.thehindu.com/static/js/jquery-ui-1.11.4.min.js"></script>
+<script src="https://www.thehindu.com/static/js/jquery-dateFormat.min.js"></script>
+<script src="https://www.thehindu.com/static/theme/default/base/js/default-base.42ad37d68cf5979770bb9e7a31443298.min.js"></script> <script type="text/javascript" src="https://tai.thehindu.com/feeder/v1/js/feed.js"></script>
+<!-- User Data Capture start -->
+<script type="text/javascript">
+(function(w,d,l,i) {
+w[l]=w[l]||[];
+w[l].push({start: new Date().getTime(), siteId: 'TRC-J3AFTO'});
+})(window, document, 'taiDataLayer', 'TRC-J3AFTO');
+var taiData = (typeof window.taiDataLayer != 'undefined') ? window.taiDataLayer : [];
+var taiDataObject = {
+msisdn:'',
+productId: 'thehindu',
+uid: '',
+skuid: '',
+aid: '',
+geo: '',
+pageTitle: '',
+pageUrl: '',
+etime: '',
+search: '',
+share: '',
+pageName: '',
+pageCategory: '',
+sectionId: '', };
+</script>
+<!-- User Data Capture end -->
+<script type="text/javascript">
+$(document).ready(function () {
+if(typeof sendTaiData !== "undefined" ) {
+taiDataObject['pageTitle'] = $("meta[name=title]").attr("content");
+taiDataObject['pageUrl'] = 'https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/';
+taiDataObject['pageName'] = 'tp-tamilnadu';
+taiDataObject['pageCategory'] = $("meta[name=keywords]").attr("content");
+taiDataObject['sectionId'] = '387';
+taiDataObject['etime'] = "" + new Date().getTime();
+taiData.push(taiDataObject);
+sendTaiData(taiData, 'onload');
+$('form').submit(function(){
+if($(this).attr('action').indexOf("search") > 0) {
+var searchText = $(this).find('input').val().trim();
+if("" !== searchText ) {
+taiDataObject['share'] = '';
+taiDataObject['search'] = searchText;	taiDataObject['etime'] = "" + new Date().getTime();	taiData.push(taiDataObject);
+sendTaiData(taiData, 'search');
+}
+}
+});	}	});
+</script>
+<script>
+$(document).ready(function (e) {
+$(document).on("makeSocialShareReady", function(event, data) {
+var selector = $(data).find(".hover-social-media-top ul li, .hover-social-media-bottom ul li");
+$(selector).on('click', function (e) {
+var shareUrl = $(this).parents('[data-share-url]').data('share-url');
+var shareText = $(this).parents('[data-share-url]').data('share-text');
+if ($(this).find('i').hasClass('fa-facebook')) {
+openShareLink('http://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(shareUrl));
+} else if ($(this).find('i').hasClass('fa-twitter')) {
+openShareLink('http://twitter.com/share?text=' + shareText + '&url=' + encodeURIComponent(shareUrl));
+}
+});
+});
+$(document).on('pageContentReady', function (event, content) {
+$(document).trigger( "makeSocialShareReady", content );
+});
+});
+$(document).ready(function (e) {
+$(document).trigger( "makeSocialShareReady", $('body') );
+});
+function openShareLink(pLink) {
+var popUp = window.open(pLink, 'popupwindow', 'scrollbars=yes,width=740,height=400');
+popUp.focus();
+return false;
+}
+</script>
+<script>
+function publist(item) {
+url = "https://www.thehindu.com/";
+id = "2";
+switch (item) {
+case "url":
+item = url;
+break;
+case "id":
+item = id;
+break;
+default:
+}
+return item;
+}
+</script>
+<script type="text/javascript">
+$( document ).ready(function() {
+VUUKLE_HOST=window.location.hostname.replace("www.","").replace(/^(m\.)/,"");
+commentcount("https://vuukle.com/api.asmx/getCommentCountListByHost?id=432081eb-6e8e-4abc-a88f-ca5357aa7244&host=" + VUUKLE_HOST,countlist);
+});
+</script>
+<script>
+$('iframe').ready(function(){
+setTimeout(function(){ var fillerList = "14664883#widget_viewPicker,14664882#widget_viewPicker,14664881#widget_viewPicker,14664880#widget_viewPicker";
+var fillerArray = fillerList.split(",");
+if(fillerList) {
+var count = 0;
+$("aside .add:visible").each(function(indx) {
+if($(this).find('iframe').height() == 0 && count < fillerArray.length ) {
+$(this).css({'margin-bottom': '0px','height':'0px'});
+var widgetInfo = fillerArray[count].split("#");
+var widgetId = widgetInfo[0].trim();
+var widgetName = widgetInfo[1].trim();
+var url="https://www.thehindu.com/?service=widget&widgetContentId="+widgetId+"&widgetName="+widgetName;
+$(this).closest(".row").append('<div class="wf-placeholder" data-loadURL="' + url + '" data-skip-profiles="">');
+// Then trigger the fragment loading of Widget Framework
+count++;
+}
+});
+if(count > 0){
+WFLazyLoader.loadFragment();
+}
+}
+}, 1000);
+});
+</script>
+<div class="overlay-screen"></div>
+<!-- Load Facebook SDK for JavaScript -->
+<script>
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.async = true;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Load Twitter widget -->
+<script>
+window.twttr = (function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0],
+t = window.twttr || {};
+if (d.getElementById(id)) return t;
+js = d.createElement(s);
+js.id = id;
+js.async = true;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+t._e = [];
+t.ready = function(f) {
+t._e.push(f);
+};
+return t;
+}(document, "script", "twitter-wjs"));
+</script>
+</body>
+</html>
